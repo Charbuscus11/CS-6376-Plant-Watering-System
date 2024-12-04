@@ -22,7 +22,7 @@ Navigate to the folder where the Simulink file is located. Use the MATLAB comman
 Open the Simulink file by double-clicking it or using the command:
 matlab
 Copy code
-open_system('filename.slx');
+open_system('PlantWateringProject.slx');
 
 Step 3: 
 Set the Simulation Time (Optional)
