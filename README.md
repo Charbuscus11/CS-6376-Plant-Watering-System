@@ -44,9 +44,9 @@ Flow Rate Scope: Displays the real-time flow rate adjustments based on your para
 Cumulative Water Dispensed Scope: Shows the total water dispensed over the simulation period.
 Compare the results of your trial with different gauge settings to analyze the system's adaptability and performance.
 
-Notes
+# Notes
 Experiment with different gauge settings during the simulation to observe system responsiveness under varying conditions.
 For troubleshooting, refer to MATLAB's Simulink documentation or the Help menu within the software.
 
-Feedback and Support
+# Feedback and Support
 If you encounter issues or have questions about the model, please feel free to reach out. Happy experimenting!
